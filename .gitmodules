@@ -1,0 +1,8 @@
+[submodule "src-multicurrencies"]
+	path = src-multicurrencies
+	url = git@github.com:jburckel/pos_nm_multicurrencies.git
+	branch = 20.0
+[submodule "src-currency-exchange"]
+	path = src-currency-exchange
+	url = git@github.com:jburckel/pos_nm_currency_exchange.git
+	branch = 20.0
